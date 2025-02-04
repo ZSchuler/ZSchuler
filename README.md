@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zach and I'm a Computer Science student.</p>
+<p align="left">My name is Zach and I'm a Computer Science student. Check out <a href="https://zschuler.github.io/" target="_blank">my website</a> if you get the chance!</p>
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
